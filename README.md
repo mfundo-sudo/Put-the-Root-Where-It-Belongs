@@ -1,2 +1,11 @@
 # Put-the-Root-Where-It-Belongs
-Practice topics  · Bridge-ID comparison · Per-VLAN root selection · Primary and secondary root planning · Campus-wide STP verification · Configuration-preserving change control
+# What you practised #
+
+Audit the accidental tree
+  Prove the network works, then identify the actual root from every switch.
+
+Install the deliberate root plan
+  Change only the two distribution bridge priorities.
+
+Verify the campus-wide tree
+  Read the new operational tree from every location and retest users
