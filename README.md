@@ -1,5 +1,5 @@
 # Put-the-Root-Where-It-Belongs
-# What you practised #
+# What I practised #
 
 Audit the accidental tree
   Prove the network works, then identify the actual root from every switch.
